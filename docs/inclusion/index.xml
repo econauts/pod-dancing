@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inclusion on Pod Dancing</title>
+    <link>econauts.github.io/pod-dancing/inclusion/</link>
+    <description>Recent content in Inclusion on Pod Dancing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="econauts.github.io/pod-dancing/inclusion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accessibility</title>
+      <link>econauts.github.io/pod-dancing/inclusion/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>econauts.github.io/pod-dancing/inclusion/accessibility/</guid>
+      <description>The venue has automatic doors, and the LARP is located on the ground floor, which we hope will help players with mobility issues. If there is anything else you need to know about the venue&amp;rsquo;s accessibility, please contact the game-masters.
+Jules has adapted the dances used in Pod Dancing to accommodate the needs of disabled players before, and will be happy to do so again. There is a dedicated section of the sign-up to make these requests.</description>
+    </item>
+    
+    <item>
+      <title>Content Notes</title>
+      <link>econauts.github.io/pod-dancing/inclusion/content-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>econauts.github.io/pod-dancing/inclusion/content-notes/</guid>
+      <description>The game-masters want you to ensure you will not play on any themes that may upset or trigger you. Therefore, we would like to provide some content notes.
+The following themes will be part of the game for all players, and if they are not for you, this is not your game: gender stereotyping, shame and repression of sexuality, strict enforcement of gender norms, oppressive class systems, and romance.
+The following themes are part of the game for some characters, but you can request a character that avoids these themes if they are not for you: PTSD, gender dysphoria, mourning a loved one, disability, and xenophobia.</description>
+    </item>
+    
+  </channel>
+</rss>

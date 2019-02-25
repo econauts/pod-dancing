@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/summary/</loc>
+  </url>
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/practical/</loc>
+  </url>
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/inclusion/</loc>
+  </url>
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/inclusion/accessibility/</loc>
+  </url>
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/inclusion/content-notes/</loc>
+  </url>
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>econauts.github.io/pod-dancing/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

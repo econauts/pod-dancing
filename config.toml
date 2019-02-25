@@ -1,0 +1,12 @@
+baseURL = "econauts.github.io/pod-dancing"
+languageCode = "en-us"
+title = "Pod Dancing"
+theme = "kraiklyn"
+publishDir = "docs"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[params]
+sidebarColor = "purple"
+customCss = []
