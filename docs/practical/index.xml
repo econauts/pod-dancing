@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Practical on Pod Dancing</title>
-    <link>/pod-dancing/practical/</link>
+    <link>econauts.github.io/pod-dancing/practical/</link>
     <description>Recent content in Practical on Pod Dancing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/pod-dancing/practical/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="econauts.github.io/pod-dancing/practical/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
