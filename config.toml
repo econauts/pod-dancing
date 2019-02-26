@@ -1,4 +1,4 @@
-baseURL = "/pod-dancing"
+baseURL = "/pod-dancing/"
 languageCode = "en-us"
 title = "Pod Dancing"
 theme = "kraiklyn"
