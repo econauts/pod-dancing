@@ -9,4 +9,15 @@ pygmentsStyle = "monokailight"
 
 [params]
 sidebarColor = "purple"
+externalTitle = "Links"
 customCss = []
+
+[[menu.shortcuts]]
+name = "Sign-up Form"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSe6Fr6tdEvZEluQEY-EgFx_Fkuq1tvN-Rx4PR9ZNJ9gcqkHRA/viewform?usp=sf_link"
+weight = 10
+
+[[menu.shortcuts]]
+name = "Facebook event"
+url = ""
+weight = 20
