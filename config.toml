@@ -19,5 +19,5 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "Facebook event"
-url = ""
+url = "https://www.facebook.com/events/1097826497063520"
 weight = 20
